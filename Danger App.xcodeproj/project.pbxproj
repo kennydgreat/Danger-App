@@ -15,6 +15,7 @@
 		CE25201521960C9B008822EB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE25201321960C9B008822EB /* LaunchScreen.storyboard */; };
 		CE25202021960C9B008822EB /* Danger_AppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE25201F21960C9B008822EB /* Danger_AppTests.swift */; };
 		CE25202B21960C9B008822EB /* Danger_AppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE25202A21960C9B008822EB /* Danger_AppUITests.swift */; };
+		CE25203921960E3D008822EB /* HomeScreenTableViewTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE25203821960E3D008822EB /* HomeScreenTableViewTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		CE25202621960C9B008822EB /* Danger AppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Danger AppUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE25202A21960C9B008822EB /* Danger_AppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Danger_AppUITests.swift; sourceTree = "<group>"; };
 		CE25202C21960C9B008822EB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CE25203821960E3D008822EB /* HomeScreenTableViewTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeScreenTableViewTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				CE25200721960C9A008822EB /* AppDelegate.swift */,
 				CE25200921960C9A008822EB /* ViewController.swift */,
 				CE25200B21960C9A008822EB /* Main.storyboard */,
+				CE25203821960E3D008822EB /* HomeScreenTableViewTableViewController.swift */,
 				CE25201121960C9B008822EB /* Assets.xcassets */,
 				CE25201321960C9B008822EB /* LaunchScreen.storyboard */,
 				CE25201621960C9B008822EB /* Info.plist */,
@@ -261,6 +264,7 @@
 			files = (
 				CE25200A21960C9A008822EB /* ViewController.swift in Sources */,
 				CE25201021960C9A008822EB /* Danger_App.xcdatamodeld in Sources */,
+				CE25203921960E3D008822EB /* HomeScreenTableViewTableViewController.swift in Sources */,
 				CE25200821960C9A008822EB /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
